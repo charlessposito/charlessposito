@@ -37,6 +37,8 @@ Se quiser trocar uma ideia, sugerir um projeto ou simplesmente bater um papo sob
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-green?style=for-the-badge)
 ![Cloud](https://img.shields.io/badge/-Cloud-00C0E0?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
