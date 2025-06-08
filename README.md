@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="[https://github.com/seunome/seurepo/blob/main/sposito-tecnologia.png](https://github.com/charlessposito/charlessposito/blob/main/ChatGPT%20Image%205%20de%20jun.%20de%202025,%2019_49_47.png?raw=true)" alt="Sposito Tecnologia" width="280" />
+  <img src="[https://github.com/seunome/seurepo/blob/main/sposito-tecnologia.png](https://github.com/charlessposito/charlessposito/blob/main/ChatGPT%20Image%205%20de%20jun.%20de%202025,%2019_49_47.png?)" alt="Sposito Tecnologia" width="280" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="[https://github.com/seunome/seurepo/blob/main/sposito-tecnologia-agro.png](https://github.com/charlessposito/charlessposito/blob/main/ChatGPT%20Image%205%20de%20jun.%20de%202025,%2018_33_26.png?raw=true)" alt="Sposito Tecnologia Agro" width="280" />
+  <img src="[https://github.com/seunome/seurepo/blob/main/sposito-tecnologia-agro.png](https://github.com/charlessposito/charlessposito/blob/main/ChatGPT%20Image%205%20de%20jun.%20de%202025,%2018_33_26.png?)" alt="Sposito Tecnologia Agro" width="280" />
 </p>
 
 ---
