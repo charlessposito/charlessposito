@@ -28,3 +28,11 @@ Se quiser trocar uma ideia, sugerir um projeto ou simplesmente bater um papo sob
 ---
 
 📫 **Em breve, mais formas de contato por aqui!**
+
+---
+
+### 🛠️ Tecnologias que usamos
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
