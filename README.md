@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👨‍💻 Bem-vindo ao meu GitHub!
 
-<!--
-**charlessposito/charlessposito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏢 Sobre mim
 
-Here are some ideas to get you started:
+Sou o proprietário da **Sposito Tecnologia** e da **Sposito Tecnologia Agro**, empresas especializadas no desenvolvimento de **Agentes de Inteligência Artificial** aplicados à **automação de processos no Agronegócio, setores Comerciais, Industriais, Bancários** e também em soluções para **Profissionais Autônomos e Liberais**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Neste espaço, compartilho projetos e iniciativas voltados à **inovação tecnológica, eficiência operacional e transformação digital**, com foco em resolver desafios reais por meio da IA.
+
+🔗 Fique à vontade para explorar os repositórios e entre em contato caso tenha interesse em **colaborar, contratar ou criar soluções personalizadas**.
+
+---
+
+## 😄 Um pouco mais sobre mim...
+
+Sou apaixonado por tecnologia, automação e soluções inteligentes que realmente fazem a diferença no dia a dia das pessoas e das empresas.  
+Aqui no GitHub, você vai encontrar um pouco da minha jornada desenvolvendo **ferramentas práticas**, muitas delas pensadas para **ganhar tempo, reduzir erros e aumentar produtividade**.
+
+Se quiser trocar uma ideia, sugerir um projeto ou simplesmente bater um papo sobre IA, é só chamar. Vamos construir soluções incríveis juntos! 🚀
+
+---
+
+📫 **Em breve, mais formas de contato por aqui!**
