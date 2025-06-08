@@ -3,7 +3,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/charlessposito/charlessposito/blob/main/ChatGPT%20Image%205%20de%20jun.%20de%202025,%2018_33_26.png" alt="Sposito Tecnologia Agro" width="280" />
 </p>
-
+  
 ---
 
 # 👨‍💻 Bem-vindo ao meu GitHub!
@@ -32,7 +32,25 @@ Se quiser trocar uma ideia, sugerir um projeto ou simplesmente bater um papo sob
 ---
 
 ### 🛠️ Tecnologias que usamos
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LLMs](https://img.shields.io/badge/-LLMs%20Customizadas-black?style=for-the-badge)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-green?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/-Cloud-00C0E0?style=for-the-badge)
+
+---
+
+### 🌐 Conecte-se com a gente
+
+- [🌐 Sposito Tecnologia](https://www.linkedin.com/company/sposito-tecnologia)
+- [🌿 Sposito Tecnologia Agro](https://www.linkedin.com/company/sposito-tecnologia-agro)
+
+---
+
+### 📈 Nosso propósito
+
+Transformar **dados em decisões inteligentes**, com foco em resultados, sustentabilidade e inovação contínua.
+
+> "Tecnologia não é sobre máquinas, é sobre possibilidades." – Charles Sposito
+
+---
